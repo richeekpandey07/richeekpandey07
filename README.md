@@ -1,55 +1,81 @@
-# Hi 👋, I'm Richeek Pandey
+# Hi there, I'm Richeek Pandey 👋
 
-### Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
+## 🚀 About Me
 
-📊 Passionate about transforming data into meaningful insights and building Machine Learning solutions.
+🎓 Passionate AI & Machine Learning Enthusiast
 
-🌱 Currently learning:
+💻 Building real-world Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI applications
 
-* Machine Learning
-* Data Science
+🌱 Currently exploring LLMs, RAG Systems, and MLOps
+
+📍 Open to internships, collaborations, and learning opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
+Python | SQL
+
+### Machine Learning
+
+Scikit-Learn | Pandas | NumPy | Matplotlib | Seaborn
+
+### Deep Learning
+
+TensorFlow | Keras | CNN
+
+### Generative AI
+
+LLMs | RAG | Prompt Engineering
+
+### Deployment
+
+Streamlit | GitHub
+
+---
+
+## 🌟 Featured Projects
+
+### 🎬 Movie Review Analysis Using LLM
+
+LLM-powered sentiment analysis system for movie reviews.
+
+### 🤖 RAG Chatbot
+
+Retrieval-Augmented Generation chatbot using custom knowledge base.
+
+### 👁️ Male & Female Eye Detection
+
+Computer Vision project for eye classification using Deep Learning.
+
+### 🖼️ Binary Image Classification
+
+CNN-based image classification application.
+
+### 📊 Google Play Store Analysis
+
+Exploratory Data Analysis and business insights from Play Store data.
+
+---
+
+## 📈 Current Focus
+
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval Augmented Generation (RAG)
 * Deep Learning
-* Streamlit App Development
+* End-to-End ML Deployment
 
-🚀 Featured Projects
+---
 
-### 📈 Canada Per Capita Income Prediction
+## 🤝 Connect With Me
 
-* Built a Linear Regression model to predict Canada's per capita income.
-* Developed an interactive Streamlit web application.
+💼 LinkedIn:www.linkedin.com/in/richeek-pandey-9954783a9
 
-### 🌸 Iris Flower Clustering
+📂 GitHub: github.com/richeekpandey07
 
-* Implemented K-Means Clustering on the Iris dataset.
-* Visualized clusters and analyzed species grouping.
+---
 
-### 👨‍💼 Employee Attrition Prediction
-
-* Built a Logistic Regression model to predict employee attrition.
-* Performed data analysis and feature engineering.
-
-### 🐶🐱 Cat vs Dog Image Classification
-
-* Developed an image classification system using Machine Learning.
-
-
-
-## 🛠️ Skills
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Machine Learning
-* Data Analysis
-* Streamlit
-* Git & GitHub
-
-## 📫 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/richeek-pandey](http://www.linkedin.com/in/richeek-pandey)
-* GitHub: github.com/richeekpandey07
-
-⭐ Always eager to learn, build, and contribute to impactful Data Science projects.
+⭐ If you like my projects, don't forget to star the repositories.
